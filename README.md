@@ -68,6 +68,11 @@ Recommended practices:
 Enter password: exit
 ```
 
+
+
+https://github.com/user-attachments/assets/35d5b1a3-0601-40df-9b94-b8cf71e8dffe
+
+
 ## Defensive Takeaways
 
 - Length matters more than complexity — a long passphrase beats a short, symbol-heavy password
